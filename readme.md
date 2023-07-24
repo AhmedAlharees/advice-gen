@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/advice-generator-app-using-html-css-and-javascript-RINguNqdNW)
 - Live Site URL:(https://ahmedalharees.github.io/advice-gen/)
 
 ## My process
@@ -42,14 +42,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Web API
-
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-
-
 
 ## Author
 
