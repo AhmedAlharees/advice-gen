@@ -107,7 +107,7 @@ body {
   width: 85%;
   height: 50px;
   margin: 0 auto;
-  background-image: url("/images/pattern-divider-mobile.svg");
+  background-image: url("./images/pattern-divider-mobile.svg");
   background-repeat: no-repeat;
   background-size: 100%;
 }

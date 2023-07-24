@@ -28,14 +28,11 @@ Users should be able to:
 
 ![](./screenshots/desktop.png)
 ![](./screenshots/desktop-advice.png)
-![](./screenshots/mobile.png)
-
-
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://ahmedalharees.github.io/advice-gen/)
 
 ## My process
 
@@ -56,7 +53,7 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AhmedAlharees](https://www.frontendmentor.io/profile/@AhmedAlharees)
 
 
 
