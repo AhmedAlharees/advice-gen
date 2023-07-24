@@ -1,0 +1,67 @@
+@use './reset';
+
+// colors
+$Light-Cyan: #cee3e9;
+$Neon-Green: #F6FF52;
+$Grayish-Blue: #4e5d73;
+$Dark-Grayish-Blue: #323a49;
+$Dark-Blue: #1f2632;
+
+body{
+    background-color: $Dark-Blue;
+    display: grid;
+    place-content: center;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+}
+
+.container{
+    background-color: $Dark-Grayish-Blue;
+    margin: 0 1em;
+    border-radius: 10px;
+    max-width: 500px;
+    transition: .4s ease;
+    .advice-id{
+        color: $Neon-Green;
+        padding: 2em;
+        letter-spacing: 2px;
+    }
+    .advice-txt{
+        max-width: 85%;
+        color: $Light-Cyan;
+        font-weight: 800;
+        margin: 0 auto;
+        margin-bottom: 2em;
+        font-size: clamp(1.2rem, 1vw + 1rem, 3rem);
+        padding: 0 .5em;
+    }
+}
+
+.divider{
+    width: 85%;
+    height: 50px;
+    margin: 0 auto;
+    background-image: url('/images/pattern-divider-mobile.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.btn{
+    transform: translateY(35px);
+    button{
+        border-radius: 50%;
+        background-color: $Neon-Green;
+        border: none;
+        padding: 1.5em;
+        transition: box-shadow 0.3s ease-out;
+    }
+    button:hover{
+        box-shadow: 0 0 35px $Neon-Green;
+    }
+    button:active{
+        background-color: #d5dc4a;
+        box-shadow: 0 0 0;
+    }
+}
+
